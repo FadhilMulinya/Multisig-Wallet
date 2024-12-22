@@ -45,7 +45,7 @@ To start contributing, follow these steps:
   
 2. **Clone your fork locally**: Use the following command to clone your fork:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone git@github.com:FadhilMulinya/Multisig-Wallet.git
    ```
   
 3. **Work on the wallet-ui branch**: Create a new branch for your feature:
