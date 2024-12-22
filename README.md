@@ -7,7 +7,7 @@ The project is deployed on base sepolia . contract address for the deployed wall
 This project aims to create a user-friendly and functional wallet interface for managing digital assets securely. It consists of two main smart contracts: **WalletFactory** and **Wallet**, which facilitate the creation and management of multi-signature wallets.
 
 ## Key Features to Implement
-We invite frontend developers to contribute and bring the following features to life:
+I invite frontend developers to contribute and bring the following features to life:
 
 1. **Create a New Wallet**:
    - Users should be able to create a new wallet with a list of owners.
@@ -25,7 +25,7 @@ We invite frontend developers to contribute and bring the following features to 
    - Allow one of the wallet owners to broadcast and execute the transaction once all required signatures are collected.
 
 ## How You Can Contribute
-We welcome contributions from developers of all skill levels! Here’s how you can get involved:
+i welcome contributions from developers of all skill levels! Here’s how you can get involved:
 
 - **Design and Development**: If you have experience with frontend development, help us design and build the UI for the above functionalities.
   
@@ -59,5 +59,5 @@ To start contributing, follow these steps:
    ```
 
 ## Conclusion
-By contributing to this project, you can help create a secure and user-friendly wallet interface that enhances the experience of managing digital assets. We look forward to your contributions!
+By contributing to this project, you can help create a secure and user-friendly wallet interface that enhances the experience of managing digital assets.Looking forward to your contributions!
 
